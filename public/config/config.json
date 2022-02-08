@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "0x18ea72f04D4890fD14baC159550e62E0ddcb9D0B",
+  "SCAN_LINK": "https://polygonscan.com/token/0x18ea72f04D4890fD14baC159550e62E0ddcb9D0B",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
-  "MAX_SUPPLY": 992,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "NFT_NAME": "Yellow Guy Dummy Pack",
+  "SYMBOL": "YGDP",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 80,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/yellow-guy-dummy-pack",
   "SHOW_BACKGROUND": true
 }
