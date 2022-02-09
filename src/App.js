@@ -249,7 +249,7 @@ function App() {
             >
               <StyledButton
                 onClick={(e) => {
-                  window.open("https://github.com/anthonyrjwood/nft-minting-app.git", "_blank");
+                  window.open("https://bitcointalk.org/index.php?topic=5298879.msg55797567#msg55797567", "_blank");
                 }}
                 style={{
                   margin: "5px",
